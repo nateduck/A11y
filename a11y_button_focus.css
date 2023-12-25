@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+/* The authoritative focus visible code for link and button elements */
+.btn:focus-visible, .comment-respond #submit:focus-visible, button:focus-visible, .button:focus-visible, a:not(.btn):focus-visible, input.wpcf7-form-control[type=submit]:focus-visible {
+	.	
+    box-shadow: 0 0 0 2px #fff, 0 0 3px 5px #7aab6d;
+	.	
+    outline: 2px dotted transparent;
+	.	
+    outline-offset: 2px
+
+
